@@ -49,6 +49,4 @@ The code provides various statistical outputs, including coefficients, p-values,
 
 It is important to note that this analysis assumes a linear relationship between marketing efforts and sales figures. Interpret the results accordingly and consider other factors that may influence sales but are not present in this dataset.
 
-### License
-
-This code is provided under the MIT License. Feel free to use, modify, and distribute the code according to the terms of the license. Happy analyzing!
+### Happy analyzing!
