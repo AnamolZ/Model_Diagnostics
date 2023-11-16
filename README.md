@@ -40,7 +40,7 @@ This analysis leverages the `statsmodels` library, which offers robust tools for
 To run the code, ensure you have Python and the required libraries installed. Next, download the "marketing.csv" file and place it in the same directory as the code. Finally, execute the script as follows:
 
 ```bash
-python your_script.py
+python Model_Diagnostics.py
 ```
 
 ### Interpretation of Results
